@@ -1,0 +1,29 @@
+{
+    "AWSTemplateFormatVersion": "2010-09-09",
+    "Metadata": {
+        "AWS::CloudFormation::Designer": {
+            "1dac337a-b04a-4863-adbd-1f8c87773641": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": 420,
+                    "y": 121
+                },
+                "z": 0
+            }
+        }
+    },
+    "Resources": {
+        "DDBT4UWFI": {
+            "Type": "AWS::DynamoDB::Table",
+            "Properties": {},
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "1dac337a-b04a-4863-adbd-1f8c87773641"
+                }
+            }
+        }
+    }
+}
